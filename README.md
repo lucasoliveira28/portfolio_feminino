@@ -1,4 +1,4 @@
-<h1>portfolio_feminino</h1>
+<h1 align="center">Portfólio Feminino</h1>
 Este código HTML e CSS é um exemplo de um portfólio básico para um desenvolvedor front-end chamado Joana Santos. O objetivo do portfólio é mostrar suas habilidades e experiência em desenvolvimento web.
 
 A estrutura do código consiste em um documento HTML com uma seção de cabeçalho, um conteúdo principal e um rodapé. O cabeçalho está vazio neste exemplo, mas pode ser usado para adicionar elementos como um logotipo ou um menu de navegação.
@@ -12,3 +12,5 @@ No CSS, algumas estilizações são aplicadas para dar uma aparência visual ao 
 Os links de LinkedIn e GitHub têm uma cor de fundo azul, um tamanho de fonte maior, um peso de fonte mais forte e um efeito de hover que muda a cor de fundo para cinza claro (#ccc).
 
 Em resumo, este código cria uma estrutura básica de um portfólio para um desenvolvedor front-end, destacando suas habilidades e oferecendo links para seu perfil profissional. É possível personalizar o código adicionando mais seções, projetos, informações de contato e ajustando o estilo de acordo com as preferências individuais.
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
