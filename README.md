@@ -15,5 +15,5 @@ Em resumo, este código cria uma estrutura básica de um portfólio para um dese
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" />         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
 <br>
-<img src="![image](https://github.com/lucasoliveira28/portfolio_feminino/assets/85970824/14227b21-f38f-4855-afe2-96bed94d2064)"/>
+<img src=""/>
 
