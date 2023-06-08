@@ -1,6 +1,6 @@
 <h1 align="center">Portfólio Feminino</h1>
 Este código HTML e CSS é um exemplo de um portfólio básico para um desenvolvedor front-end chamado Joana Santos. O objetivo do portfólio é mostrar suas habilidades e experiência em desenvolvimento web.
-<br><br><br>
+<br><br>
 
 Em resumo, este código cria uma estrutura básica de um portfólio para um desenvolvedor front-end, destacando suas habilidades e oferecendo links para seu perfil profissional. É possível personalizar o código adicionando mais seções, projetos, informações de contato e ajustando o estilo de acordo com as preferências individuais.
 <br>
