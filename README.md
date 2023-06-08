@@ -13,4 +13,4 @@ Os links de LinkedIn e GitHub têm uma cor de fundo azul, um tamanho de fonte ma
 
 Em resumo, este código cria uma estrutura básica de um portfólio para um desenvolvedor front-end, destacando suas habilidades e oferecendo links para seu perfil profissional. É possível personalizar o código adicionando mais seções, projetos, informações de contato e ajustando o estilo de acordo com as preferências individuais.
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" />         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
